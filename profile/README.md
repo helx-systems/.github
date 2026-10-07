@@ -77,4 +77,4 @@ Helx Systems adheres to three non-negotiable principles of software construction
 
 Helx Systems is founded and maintained by [Santiago Piedrahita Quintero](https://github.com/TicoraX). 
 
-All software within this organization is published under permissive open-source licenses (MIT / Apache-2.0). Security disclosures should be submitted directly to `santiagopiedrahita8202@gmail.com`.
+All software within this organization is published under permissive open-source licenses (MIT / Apache-2.0). Security disclosures should be submitted directly to `santiagohelxsystem@gmail.com`.

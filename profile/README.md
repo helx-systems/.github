@@ -1,12 +1,21 @@
 # Helx Systems
 
-<img src="../assets/logo.svg" alt="Helx Systems logo" width="96" height="96" />
+<img src="../assets/banner-title.jpg" alt="Helx Systems" width="100%" />
 
 Helx is the name under which [Santiago Piedrahita Quintero](https://github.com/TicoraX) publishes
 his developer tools. Each one started as a problem he had first, and each ships with tests you can
 run.
 
 ## Tools
+
+<div align="center">
+
+<a href="https://github.com/TicoraX/StackHelx"><img src="https://github-stats-extended.vercel.app/api/pin/?username=TicoraX&repo=StackHelx&theme=tokyonight&hide_border=true" alt="StackHelx" /></a>
+<a href="https://github.com/TicoraX/OrqueHelx"><img src="https://github-stats-extended.vercel.app/api/pin/?username=TicoraX&repo=OrqueHelx&theme=tokyonight&hide_border=true" alt="OrqueHelx" /></a>
+<a href="https://github.com/TicoraX/OptiHelx"><img src="https://github-stats-extended.vercel.app/api/pin/?username=TicoraX&repo=OptiHelx&theme=tokyonight&hide_border=true" alt="OptiHelx" /></a>
+<a href="https://github.com/TicoraX/LuckHelx"><img src="https://github-stats-extended.vercel.app/api/pin/?username=TicoraX&repo=LuckHelx&theme=tokyonight&hide_border=true" alt="LuckHelx" /></a>
+
+</div>
 
 **[StackHelx](https://github.com/TicoraX/StackHelx)** — local dev environment orchestrator, on PyPI.
 One file at the project root and `shx up` brings up ports, Docker, backend and frontend. Includes an
